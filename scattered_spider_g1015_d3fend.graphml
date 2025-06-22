@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="size" attr.type="long"/>
+<key id="d0" for="node" attr.name="color" attr.type="string"/>
+<graph edgedefault="directed"><node id="Scattered Spider (G1015)">
+  <data key="d0">red</data>
+  <data key="d1">1500</data>
+</node>
+<node id="Reconnaissance">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Initial Access">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Resource Development">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Execution &amp; Persistence">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Credential Access">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Privilege Escalation">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Discovery &amp; Lateral Movement">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Exfiltration &amp; Ransomware">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Defensive Observations">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Tools &amp; Affiliates">
+  <data key="d0">orange</data>
+  <data key="d1">1200</data>
+</node>
+<node id="Identity Info">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Spearphishing Voice">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Phishing">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Trusted Relationship">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Smishing">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Acquire Domains">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Execute Remote Tools">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Remote Access Tools">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Create Accounts">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Register MFA">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Forge MFA">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="MFA Fatigue">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Key/Data Search">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Domain Trust Mod">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="File Discovery">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Sharepoint/Repo">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="AWS Inventory">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Use Cloud Instance">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Email Logs">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Data Staging">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Encrypt (BlackCat/RH)">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="MFA Logs">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Federation Monitoring">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Cloud Monitoring">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="BlackCat/ALPHV">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="RansomHub">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="DragonForce">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Fleetdeck">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Spectre RAT">
+  <data key="d0">lightblue</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Email Filtering">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="User Training">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="SMS Filtering">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Mobile Security">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="MFA Monitoring">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Anomaly Detection">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="MFA Rate Limiting">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="User Behavior Analytics">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Federation Audit">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Token Usage Monitoring">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="SSO Federation Policy">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Trust Validation">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Identity Lifecycle Management">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Privileged Access Review">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="RMM Tool Whitelisting">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Network Access Mediation">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Data Backup Validation">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Ransomware Detection">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Cloud Access Control">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="IAM Role Auditing">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Cloud Configuration Monitoring">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Data Exfiltration Detection">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="File System Monitoring">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<node id="Communication Monitoring">
+  <data key="d0">lightgreen</data>
+  <data key="d1">1000</data>
+</node>
+<edge source="Scattered Spider (G1015)" target="Reconnaissance"/>
+<edge source="Scattered Spider (G1015)" target="Initial Access"/>
+<edge source="Scattered Spider (G1015)" target="Resource Development"/>
+<edge source="Scattered Spider (G1015)" target="Execution &amp; Persistence"/>
+<edge source="Scattered Spider (G1015)" target="Credential Access"/>
+<edge source="Scattered Spider (G1015)" target="Privilege Escalation"/>
+<edge source="Scattered Spider (G1015)" target="Discovery &amp; Lateral Movement"/>
+<edge source="Scattered Spider (G1015)" target="Exfiltration &amp; Ransomware"/>
+<edge source="Scattered Spider (G1015)" target="Defensive Observations"/>
+<edge source="Scattered Spider (G1015)" target="Tools &amp; Affiliates"/>
+<edge source="Reconnaissance" target="Identity Info"/>
+<edge source="Reconnaissance" target="Spearphishing Voice"/>
+<edge source="Initial Access" target="Phishing"/>
+<edge source="Initial Access" target="Trusted Relationship"/>
+<edge source="Initial Access" target="Smishing"/>
+<edge source="Resource Development" target="Acquire Domains"/>
+<edge source="Execution &amp; Persistence" target="Execute Remote Tools"/>
+<edge source="Execution &amp; Persistence" target="Remote Access Tools"/>
+<edge source="Execution &amp; Persistence" target="Create Accounts"/>
+<edge source="Execution &amp; Persistence" target="Register MFA"/>
+<edge source="Credential Access" target="Forge MFA"/>
+<edge source="Credential Access" target="MFA Fatigue"/>
+<edge source="Credential Access" target="Key/Data Search"/>
+<edge source="Privilege Escalation" target="Domain Trust Mod"/>
+<edge source="Discovery &amp; Lateral Movement" target="File Discovery"/>
+<edge source="Discovery &amp; Lateral Movement" target="Sharepoint/Repo"/>
+<edge source="Discovery &amp; Lateral Movement" target="AWS Inventory"/>
+<edge source="Discovery &amp; Lateral Movement" target="Use Cloud Instance"/>
+<edge source="Discovery &amp; Lateral Movement" target="Email Logs"/>
+<edge source="Exfiltration &amp; Ransomware" target="Data Staging"/>
+<edge source="Exfiltration &amp; Ransomware" target="Encrypt (BlackCat/RH)"/>
+<edge source="Defensive Observations" target="MFA Logs"/>
+<edge source="Defensive Observations" target="Federation Monitoring"/>
+<edge source="Defensive Observations" target="Cloud Monitoring"/>
+<edge source="Tools &amp; Affiliates" target="BlackCat/ALPHV"/>
+<edge source="Tools &amp; Affiliates" target="RansomHub"/>
+<edge source="Tools &amp; Affiliates" target="DragonForce"/>
+<edge source="Tools &amp; Affiliates" target="Fleetdeck"/>
+<edge source="Tools &amp; Affiliates" target="Spectre RAT"/>
+<edge source="Email Filtering" target="Phishing"/>
+<edge source="User Training" target="Phishing"/>
+<edge source="SMS Filtering" target="Smishing"/>
+<edge source="Mobile Security" target="Smishing"/>
+<edge source="MFA Monitoring" target="Forge MFA"/>
+<edge source="Anomaly Detection" target="Forge MFA"/>
+<edge source="MFA Rate Limiting" target="MFA Fatigue"/>
+<edge source="User Behavior Analytics" target="MFA Fatigue"/>
+<edge source="Federation Audit" target="Register MFA"/>
+<edge source="Token Usage Monitoring" target="Register MFA"/>
+<edge source="SSO Federation Policy" target="Domain Trust Mod"/>
+<edge source="Trust Validation" target="Domain Trust Mod"/>
+<edge source="Identity Lifecycle Management" target="Create Accounts"/>
+<edge source="Privileged Access Review" target="Create Accounts"/>
+<edge source="RMM Tool Whitelisting" target="Remote Access Tools"/>
+<edge source="Network Access Mediation" target="Remote Access Tools"/>
+<edge source="Data Backup Validation" target="Encrypt (BlackCat/RH)"/>
+<edge source="Ransomware Detection" target="Encrypt (BlackCat/RH)"/>
+<edge source="Cloud Access Control" target="Use Cloud Instance"/>
+<edge source="IAM Role Auditing" target="Use Cloud Instance"/>
+<edge source="Cloud Configuration Monitoring" target="AWS Inventory"/>
+<edge source="Data Exfiltration Detection" target="Data Staging"/>
+<edge source="File System Monitoring" target="File Discovery"/>
+<edge source="Communication Monitoring" target="Email Logs"/>
+</graph></graphml>
