@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="T1566.001">
+  <data key="d0">Phishing: Spearphishing Attachment</data>
+  <data key="d1">ATTACK</data>
+</node>
+<node id="T1078">
+  <data key="d0">Valid Accounts</data>
+  <data key="d1">ATTACK</data>
+</node>
+<node id="T1059">
+  <data key="d0">Command and Scripting Interpreter</data>
+  <data key="d1">ATTACK</data>
+</node>
+<node id="T1027">
+  <data key="d0">Obfuscated Files or Information</data>
+  <data key="d1">ATTACK</data>
+</node>
+<node id="T1562.001">
+  <data key="d0">Impair Defenses: Disable or Modify Tools</data>
+  <data key="d1">ATTACK</data>
+</node>
+<node id="T1047">
+  <data key="d0">Windows Management Instrumentation</data>
+  <data key="d1">ATTACK</data>
+</node>
+<node id="T1071.001">
+  <data key="d0">Application Layer Protocol: Web Protocols</data>
+  <data key="d1">ATTACK</data>
+</node>
+<node id="T1105">
+  <data key="d0">Ingress Tool Transfer</data>
+  <data key="d1">ATTACK</data>
+</node>
+<node id="D3-OSAM">
+  <data key="d0">Operating System Access Monitoring</data>
+  <data key="d1">D3FEND</data>
+</node>
+<node id="D3-PSA">
+  <data key="d0">Process Spawn Analysis</data>
+  <data key="d1">D3FEND</data>
+</node>
+<node id="D3-FVM">
+  <data key="d0">File Virus Scanning</data>
+  <data key="d1">D3FEND</data>
+</node>
+<node id="D3-WAC">
+  <data key="d0">Web Application Content Filtering</data>
+  <data key="d1">D3FEND</data>
+</node>
+<node id="D3-IMD">
+  <data key="d0">Inbound Network Metadata Collection</data>
+  <data key="d1">D3FEND</data>
+</node>
+<node id="D3-DACT">
+  <data key="d0">Disable Account</data>
+  <data key="d1">D3FEND</data>
+</node>
+<node id="D3-AM">
+  <data key="d0">Antivirus/Antimalware</data>
+  <data key="d1">D3FEND</data>
+</node>
+<node id="D3-CMDH">
+  <data key="d0">Command History Analysis</data>
+  <data key="d1">D3FEND</data>
+</node>
+<edge source="D3-OSAM" target="T1078"/>
+<edge source="D3-PSA" target="T1059"/>
+<edge source="D3-FVM" target="T1027"/>
+<edge source="D3-FVM" target="T1566.001"/>
+<edge source="D3-WAC" target="T1071.001"/>
+<edge source="D3-IMD" target="T1105"/>
+<edge source="D3-DACT" target="T1078"/>
+<edge source="D3-AM" target="T1059"/>
+<edge source="D3-AM" target="T1027"/>
+<edge source="D3-AM" target="T1105"/>
+<edge source="D3-CMDH" target="T1059"/>
+</graph></graphml>
